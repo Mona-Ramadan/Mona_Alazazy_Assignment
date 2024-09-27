@@ -15,12 +15,13 @@
 ***I hope to collaborate with my colleagues here and actively participate on GitHub.*** 
 ***I love the field of design and web programming, and I hope to improve my skills while studying it.😊***
 
- ***I have two amazing kids:***
- 
-### 1.Karim, who is in first grade.
-### 2.Adam, who is two and a half years old.
-
  ***I enjoy drawing, savoring coffee, cooking, and traveling as well.***        
+
+ ***I have two amazing kids:***
+
+###        1.Karim, who is in first grade.
+###        2.Adam, who is two and a half years old.
+
 
 
 
