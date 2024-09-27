@@ -19,9 +19,9 @@
 
  ***I have two amazing kids:***
 
- ***- Kareem, who is in first grade.***
+ - Kareem, who is in first grade.
  
- ***- Adam, who is two and a half years old.***
+ - Adam, who is two and a half years old.
 
         
 
