@@ -1,12 +1,10 @@
 # Week_5_Assignment
-
-
-
-
-
 # Hello there,
- *** I’m Mona Alazazy. Originally from Egypt. I’ve been living in Canada for the past six years. 
- I hold a Bachelor’s degree in Computer Science and Information from Suez Canal University in Egypt. Two years ago, I completed the "English for Academic Purposes" program at Fanshawe College.*** 
+
+
+ ***I’m Mona Alazazy. Originally from Egypt. I’ve been living in Canada for the past six years.***
+
+ ***I hold a Bachelor’s degree in Computer Science and Information from Suez Canal University in Egypt. Two years ago, I completed the "English for Academic Purposes" program at Fanshawe College.*** 
 
 
 
